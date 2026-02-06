@@ -2,7 +2,7 @@
 
 Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable "skills" and some initial instructions that make sure your agent uses them.
 
-## How it works  
+## How it works    
 
 It starts from the moment you fire up your coding agent. As soon as it sees that you're b uilding something,it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. 
 
